@@ -1,5 +1,9 @@
 # R4DCB08-python-example
-Reading data from module and set the new network address
+Reading data from R4DCB08 module and set the new network address.
+
+USB-RS485 converter is needed.
+
+![image](https://user-images.githubusercontent.com/54446451/195808995-07be0691-3729-46ff-b568-038213bb775e.png)
 
 ![image](https://user-images.githubusercontent.com/54446451/195808462-0914583a-d507-46b2-b644-af27ccc90112.png)
 
